@@ -1,0 +1,11 @@
+Project Name: Git DevOps Workflow
+
+Project Type: DevOps Version Control Demonstration
+
+Purpose: Demonstrate Git repository management, branching, pull requests, commits, and release tagging.
+
+Tools: Git, GitHub, Visual Studio Code
+
+Version: 1.0.0
+
+Status: In Development
