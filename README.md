@@ -73,3 +73,35 @@ The project demonstrates a structured Git workflow with documented branching pra
 ## Author
 
 Created as part of the Elevate Labs DevOps Internship — Task 4.
+
+## Git Tags
+
+Git tags are used to mark specific points in the repository's history. They help identify important milestones and versions of a project.
+
+### Tag Created
+
+- **Tag Name:** `v1.0.0`
+- **Description:** Task 4 Git DevOps workflow completed.
+- **Purpose:** Marks the completion of the Git version control project, including branch management, commits, pull requests, and documentation.
+
+### Commands Used
+
+Create an annotated tag:
+
+```bash
+git tag -a v1.0.0 -m "Task 4 Git DevOps workflow completed"
+```
+
+Push the tag to GitHub:
+
+```bash
+git push origin v1.0.0
+```
+
+List available tags:
+
+```bash
+git tag
+```
+
+The `v1.0.0` tag marks the initial completed version of this Git DevOps workflow project.
